@@ -1,0 +1,6 @@
+{
+  "name": "Сайт-визитка Natasha Brows",
+  "description": "Сайт-визитка для топ-мастера Натальи (@_natasha.brows_). Прайс-лист, галерея работ, отзывы клиентов и интерактивная имитация онлайн-записи через Telegram-бот.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
